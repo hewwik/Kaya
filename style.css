@@ -13,10 +13,10 @@ body{
 :root{
     --text: 'Abel', sans-serif; 
     --title: 'Arquivo Blck', sans-serif; 
-    --brown:#e1ad21; 
-    --brownlight-1:#f4c430; 
-    --brownlight-2:#ffdf00; 
-    --brownlight-3:#f8de7e; 
+    --brown:#696969; 
+    --brownlight-1:#a9a9a9; 
+    --brownlight-2:#bfc1c2; 
+    --brownlight-3:#dcdcdc; 
     --blue:#0a0120;
 } 
  
